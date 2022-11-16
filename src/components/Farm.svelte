@@ -44,6 +44,9 @@
     .light {
         background: rgba(0, 116, 217, 0.5);
     }
+    .neutral {
+        background: #797979;
+    }
 </style>
 
 <table>

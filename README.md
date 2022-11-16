@@ -12,6 +12,14 @@ Live version: https://swgoh.freddie.wtf
 3. Run `npm run dev` in a command prompt/shell.
 4. Visit http://localhost:5000/?player=your_id_here.
 
+## Local running
+
+1. Install [Node.js](https://nodejs.org/en/) if you haven't already.
+2. Run `npm install` in a command prompt/shell.
+3. Install `podman` to run the containers.
+4. `./run.sh`
+5. Visit http://localhost:5000/?player=your_id_here.
+
 ## Project structure
 
 Almost everything lives under `src/`:

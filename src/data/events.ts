@@ -13,7 +13,7 @@ var tier4 =  new FarmCategory(
                 new FarmUnit('Hondo Ohnaka', 7, 13, 5),
                 new FarmUnit('0-0-0', 7, 13, 5),
                 new FarmUnit('BT-1', 7,13, 5),
-                // new FarmUnit('Sana Starros', 7, 13, 5),
+                new FarmUnit('Sana Starros', 7, 13, 5),
             ],
             [],
         ),
